@@ -1,0 +1,380 @@
+*{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.main{
+    width: 100%;
+    height: 95px;
+    background-color:#0b9d4c ;
+    position: fixed;
+}
+
+.img{
+    width: 100px;
+    height: 58px;
+    float: left;
+    margin-left: 40px;
+    padding-top: 10px;
+    margin-top: 5px;
+
+    
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+.ul1{
+   
+    display: flex;
+    justify-content: center;
+   
+    margin-left: 150px;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 70px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+   
+}
+
+ul li a:hover{
+    color:black;
+    text-decoration:underline ;
+    
+}
+.ic{
+.fa-facebook{
+    padding-left: 10cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-facebook:hover{
+    color: black;
+}
+.fa-twitter{
+
+    padding-left:.5cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-twitter:hover{
+    color: black;
+}
+
+.fa-youtube{
+    padding-left:.5cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-youtube:hover{
+    color: black; 
+}
+
+.fa-instagram{
+    padding-left:.5cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-instagram:hover{
+    color: black; 
+}
+.fa-spotify{
+    padding-left:.5cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-spotify:hover{
+    color: black;
+}
+
+.fa-address-book{
+    padding-left:1cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:white;
+}
+.fa-address-book:hover{
+    color: black;
+}
+}
+.second{
+background-color: black;
+width: 100%;
+height: 13.9cm;
+padding-top: 2.7cm;
+}
+.vd1{
+    background-color:white;
+    width:8cm;
+    float: left;
+
+}
+.vd{
+margin-left: 1.5cm;
+height: 7cm;
+
+}
+
+.white{
+    color: white;
+    padding-left:6px ;
+    padding-top: 20px;
+       font-family:"AktivGroteskCdBlack";
+     font-variant-caps: petite-caps;
+     font-size: 60px;
+    font-style: normal;
+    line-height: 2cm;
+    margin-left: 2cm;
+    
+}.sp{
+    width:340px;
+    padding-top: 65px;
+    padding-left: 60px;
+}
+
+.fa-cookie-bite{
+color:yellow;
+padding-top: 5px;
+padding: 8px;
+size: 3cm;
+background-color: red;
+width: .6cm;
+height: .6cm;
+border-radius: 8px;
+margin-left: 1cm;
+position: fixed;
+}
+.shop{
+    border: solid black;
+    background-color: rgb(232, 178, 14);
+    width: 4.3cm;
+    height: 1cm;
+    text-align: center;
+    padding-top: 15px;
+    font-size: medium;
+    margin-left: 2cm;
+ }   
+h6:hover{
+    background-color: black;
+    color: white;
+}
+.pic{
+    width: 600px;
+    height: 500px;
+    float: right; 
+    
+}
+.new{
+    
+        background-color:white;
+        width: 100%;
+       height: 23.5cm;
+      padding-top: 1cm;
+}
+.drops{
+    width: 450px;
+    height: 7cm;
+    margin-top: .5cm;
+    margin-left: 3cm;
+    float: left;
+}
+
+.f{
+    color: black;
+    font-size: 55px;
+    margin-top: 0cm;
+  
+    margin-left: 16cm;
+    
+}
+.words{
+    color: black;
+    font-size: 27px;
+    margin-top: 0cm;
+  
+    margin-left: 16cm;
+}
+
+.fa-message{
+    color:#0b9d4c;
+    align-items: center;
+    margin-top: .5px;
+    font-size: 30px;
+    margin-left: 14cm;
+
+}
+.now{
+border: none;
+background-color: rgba(254, 191, 3, 0.845);
+width: 4.1cm;
+height: .6cm;
+text-align: center;
+padding-top: 8px;
+font-size: medium;
+margin-left: 16cm;
+}  
+
+.new .d{ border: none;
+    background-color: rgb(253, 198, 33);
+    width: 3cm;
+    height: .6cm;
+margin-top: 0;
+padding-left: 0.5cm;
+margin-left: 18cm;
+padding-bottom:.1cm;
+    padding-top: .3cm;
+    font-weight: bold;
+}
+.d:hover{
+    color: #fff;
+    background-color: grey;
+}
+.green{
+    color: #0b9d4c;
+    padding-top: 20px;
+    font-size: 50px;
+    line-height: 2cm;
+     margin-top: 3cm;
+     margin-left: 2cm;
+
+}
+.bottile{
+    width: 650px;
+    float: right;
+    height: 450px;
+    
+    }
+.footer{
+    background-color:#0b9d4c;
+    width: 100%;
+    height: 15cm;
+    color: white;
+    
+    
+} 
+#div1{
+    background-color:  #0b9d4c;
+    width:9cm;
+    float: right;
+    height: 12cm;
+    margin-left: cm;
+    margin-right:7cm;
+    
+}
+#div2{
+    background-color: #0b9d4c;
+    width: 7cm;
+    float: left;
+    height: 12cm;
+}
+.lo{
+    width: 100px;
+    height: 58px;
+    float: left;
+    margin-left:4cm;
+    padding-top: 10px;
+    margin-top: 3cm;
+
+}
+#div3{
+    background-color:  #0b9d4c;
+    width: 9.1cm;
+    margin-left:7cm;
+    
+    height: 12cm;
+}
+
+#j{
+padding-top: 2cm;
+padding-left: 2cm;
+font-size: medium;
+}   
+.fa-facebook{
+    padding-left:2cm;
+    margin-top: 1.2cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-facebook:hover{
+    color: black;
+}
+.fa-twitter{
+
+    padding-left:.2cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-twitter:hover{
+    color: black;
+}
+
+.fa-youtube{
+    padding-left:.2cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-youtube:hover{
+    color: black; 
+}
+
+.fa-instagram{
+    padding-left:.2cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-instagram:hover{
+    color: black; 
+}
+.fa-spotify{
+    padding-left:.2cm;
+    margin-top: 1cm;
+    font-size: 20px;
+    color:aliceblue;
+}
+.fa-spotify:hover{
+    color: black;
+}
+
+
+.lastul{
+    padding-top:24px;
+    padding-left: 0px;
+    padding-right: 3cm;
+    font:900;
+    font-size: 1%;
+    
+    
+}
+li.hover{
+    color:black;
+
+    
+    
+}
+.pa{
+    margin-left: 10cm;
+font: bold;
+}
+.su{
+    margin-left: 5cm;
+}
